@@ -25,5 +25,8 @@
 .big-card_picture > img{
     width: 100%;
     min-width: 400px;
+}
 
+a:hover{
+    color: gray;
 }
